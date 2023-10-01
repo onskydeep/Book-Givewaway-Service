@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="hangman.wordList" />
+          <option value="dict.has_key" />
+          <option value="_dict_keys.__getitem__" />
+          <option value="grpc.examples.python.route_guide.route_guide_pb2.google" />
+          <option value="time.time.sleep" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
